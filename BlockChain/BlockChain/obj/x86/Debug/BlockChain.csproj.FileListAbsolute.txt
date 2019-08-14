@@ -1,0 +1,4 @@
+D:\GITHUB\Blockchain\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+D:\GITHUB\Blockchain\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+D:\GITHUB\Blockchain\BlockChain\BlockChain\obj\x86\Debug\BlockChain.exe
+D:\GITHUB\Blockchain\BlockChain\BlockChain\obj\x86\Debug\BlockChain.pdb
